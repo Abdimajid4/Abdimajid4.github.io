@@ -7,3 +7,15 @@
 
 <h3 >Förnamn Efternamn</h3>
 
+<style>
+h1{
+color:rgb(10, 234, 152);
+}
+h2{
+color: #Ffd700
+}
+h3{
+color: #E5e4e2;
+}
+</style>
+
