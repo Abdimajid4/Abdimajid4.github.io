@@ -12,7 +12,7 @@ h1{
 color:rgb(10, 234, 152);
 }
 h2{
-color: #Ffd700
+color: #6b5d0a
 }
 h3{
 color: #E5e4e2;
