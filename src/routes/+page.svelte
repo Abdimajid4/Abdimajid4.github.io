@@ -15,7 +15,7 @@ h2{
 color: #6b5d0a
 }
 h3{
-color: #E5e4e2;
+color: #936b1c;
 }
 </style>
 

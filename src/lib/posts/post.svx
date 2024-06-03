@@ -1,9 +1,8 @@
 ---
-title: Vecka 1
-date: "2024-03-01"
-keywords: ["adding tasks", "gallery"]
+title: Vecka 4
+date: "2024-05-13"
+keywords: ["klar"]
 ---
 
-Hello, I am _Post One._
 
-**Nice to meet you!**
+Jag har skrivit klart bas coden för att kunna göra spelet, jag har stöt på problem med mina buttons detta löste jag med lite hjälp av open ai. De jag har kvar nu är delarna som inte viktiga för att köra spelet med ändå gör den finare och roligare att spela.

@@ -4,7 +4,8 @@ date: "2024-03-17"
 keywords: ["localStorage", "points"]
 ---
 
-Laddat ner koden från git.
 
 
-Ändrat färgen och storleken på border för class "upgrades":
+
+
+ Jag har skrivit koden för constatena och funktionerna. Jag har skapat en övervakare som övervakar spelets status och delar ut kort till dealern och spelaren och räknar summan av deras poäng. 
